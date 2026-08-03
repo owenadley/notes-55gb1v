@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://owenadley.github.io/notes-55gb1v/sitemap.xml
